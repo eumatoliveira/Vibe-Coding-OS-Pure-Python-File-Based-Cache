@@ -2,6 +2,8 @@
 
 Um projeto experimental que implementa conceitos de **sistema operacional** usando **apenas Python**, sem SQL ou bancos de dados externos. Toda a memória cache é gerenciada em arquivos, permitindo persistência simples e rápida.
 
+![video](https://github.com/eumatoliveira/Vibe-Coding-OS-Pure-Python-File-Based-Cache/blob/main/2025-11-11%2021-56-43.mp4)
+
 ---
 
 ## 📝 Descrição
