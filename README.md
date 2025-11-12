@@ -2,7 +2,7 @@
 
 Um projeto experimental que implementa conceitos de **sistema operacional** usando **apenas Python**, sem SQL ou bancos de dados externos. Toda a memória cache é gerenciada em arquivos, permitindo persistência simples e rápida.
 
-
+[Watch the demo video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7394179848044199936/)
 
 ---
 
